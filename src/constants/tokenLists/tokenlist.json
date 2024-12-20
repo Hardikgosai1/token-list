@@ -39,6 +39,14 @@
             "decimals": 9,
             "icon": "https://athene.network/api/v1.0/icon/tokens/DOGE.png",
             "disable": false
+        },
+        {
+            "address": "0xeB5223aedc5919897aa8955AA5c6CB48a5769222",
+            "name": "ATHENE EXCHANGE",
+            "symbol": "ATX",
+            "decimals": 9,
+            "icon": "https://athene.network/api/v1.0/icon/tokens/ATX.png",
+            "disable": false
         }
     ],
     "mainnet": [
