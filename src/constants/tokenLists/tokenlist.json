@@ -18,7 +18,7 @@
         },
         {
             "address": "0x2c7C71441cf333821071fB74fdFf37ee6E6Ca69B",
-            "name": "USDT",
+            "name": "Tether",
             "symbol": "USDT",
             "decimals": 6,
             "icon": "https://athene.network/api/v1.0/icon/tokens/USDT.png",
